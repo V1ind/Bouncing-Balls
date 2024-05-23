@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple TypeScript/JavaScript program that simulates bouncing balls on a canvas.
+This is a TypeScript/JavaScript program that simulates bouncing balls on a canvas.
 
 ## How to Run
 
